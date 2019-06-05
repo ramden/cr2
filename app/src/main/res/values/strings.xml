@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">cr2</string>
+
+    <string-array name="options_array">
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C5</item>
+        <item>C6</item>
+        <item>C7</item>
+        <item>C8</item>
+        <item>C9</item>
+        <item>C10</item>
+    </string-array>
+
+</resources>
